@@ -1,6 +1,6 @@
 <template id="img-temp">
   <div id="img-container" :style="newstyle">
-    <img :src="url" id="img-oneself" alt="">
+    <img :src="url" id="img-oneself" alt="image">
     <p id="img-content">{{text}}</p>
   </div>
 </template>
